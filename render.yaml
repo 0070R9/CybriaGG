@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: cygg
+    name: eman
     env: node
     buildCommand: npm install
     startCommand: npm start
